@@ -14,6 +14,10 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
+    section Go to bed
+      Go to bed: 5: Me
+      Lie down: 5: Me
+
 ```
 
 Each user journey is split into sections, these describe the part of the task
